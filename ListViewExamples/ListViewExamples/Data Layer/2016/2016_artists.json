@@ -1,0 +1,384 @@
+{
+    "artists": [
+		{ 
+			"name" : "David Bowie",
+			"age" : 69,
+			"birthName" : "David Robert Jones",
+			"yearsActive" : "1962–2016",
+			"albums" : [
+				{
+					"title" : "David Bowie",
+					"year" : 1967
+				},
+				{
+					"title" : "David Bowie (also released as Space Oddity)",
+					"year" : 1969
+				},
+				{
+					"title" : "The Man Who Sold the World",
+					"year" : 1970
+				},
+				{
+					"title" : "Hunky Dory",
+					"year" : 1971
+				},
+				{
+					"title" : "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+					"year" : 1972
+				},
+				{
+					"title" : "Aladdin Sane",
+					"year" : 1973
+				},
+				{
+					"title" : "Pin Ups",
+					"year" : 1973
+				},
+				{
+					"title" : "Diamond Dogs",
+					"year" : 1974
+				},
+				{
+					"title" : "Young Americans",
+					"year" : 1975
+				},
+				{
+					"title" : "Station to Station",
+					"year" : 1976
+				},
+				{
+					"title" : "Low",
+					"year" : 1977
+				},
+				{
+					"title" : "Heroes",
+					"year" : 1977
+				},
+				{
+					"title" : "Lodger",
+					"year" : 1979
+				},
+				{
+					"title" : "Scary Monsters and Super Creeps",
+					"year" : 1980
+				},
+				{
+					"title" : "Let's Dance",
+					"year" : 1983
+				},
+				{
+					"title" : "Tonight",
+					"year" : 1984
+				},
+				{
+					"title" : "Never Let Me Down",
+					"year" : 1987
+				},
+				{
+					"title" : "Black Tie White Noise",
+					"year" : 1993
+				},
+				{
+					"title" : "The Buddha of Suburbia",
+					"year" : 1993
+				},
+				{
+					"title" : "Outside",
+					"year" : 1995
+				},
+				{
+					"title" : "Earthling",
+					"year" : 1997
+				},
+				{
+					"title" : "Hours",
+					"year" : 1999
+				},
+				{
+					"title" : "Heathen",
+					"year" : 2002
+				},
+				{
+					"title" : "Reality",
+					"year" : 2003
+				},
+				{
+					"title" : "The Next Day",
+					"year" : 2013
+				},
+				{
+					"title" : "Blackstar",
+					"year" : 2016
+				}
+			]
+    	},
+		{ 
+			"name" : "George Micheal",
+			"age" : 53,
+			"birthName" : "Georgios Kyriacos Panayiotou",
+			"yearsActive" : "1981–2016",
+			"albums" : [
+				{
+					"title" : "Fantastic (Wham!)",
+					"year" : 1983
+				},
+				{
+					"title" : "Make It Big (Wham!)",
+					"year" : 1984
+				},
+				{
+					"title" : "Music from the Edge of Heaven (Wham!)",
+					"year" : 1986
+				},
+				{
+					"title" : "Faith",
+					"year" : 1987
+				},
+				{
+					"title" : "Listen Without Prejudice Vol. 1",
+					"year" : 1990
+				},
+				{
+					"title" : "Older",
+					"year" : 1996
+				},
+				{
+					"title" : "Songs from the Last Century",
+					"year" : 1999
+				},
+				{
+					"title" : "Patience",
+					"year" : 2004
+				}
+			]
+    	},
+		{ 
+			"name" : "Leonard Cohen",
+			"age" : 82,
+			"birthName" : "Leonard Norman Cohen",
+			"yearsActive" : "1956–2016",
+			"albums" : [
+				{
+					"title" : "Songs of Leonard Cohen",
+					"year" : 1967
+				},
+				{
+					"title" : "Songs from a Room",
+					"year" : 1969
+				},
+				{
+					"title" : "Songs of Love and Hate",
+					"year" : 1971
+				},
+				{
+					"title" : "New Skin for the Old Ceremony",
+					"year" : 1974
+				},
+				{
+					"title" : "Death of a Ladies' Man",
+					"year" : 1977
+				},
+				{
+					"title" : "Recent Songs",
+					"year" : 1979
+				},
+				{
+					"title" : "Various Positions",
+					"year" : 1984
+				},
+				{
+					"title" : "I'm Your Man",
+					"year" : 1988
+				},
+				{
+					"title" : "The Future",
+					"year" : 1992
+				},
+				{
+					"title" : "Ten New Songs",
+					"year" : 2001
+				},
+				{
+					"title" : "Dear Heather",
+					"year" : 2004
+				},
+				{
+					"title" : "Old Ideas",
+					"year" : 2012
+				},
+				{
+					"title" : "Popular Problems",
+					"year" : 2014
+				},
+				{
+					"title" : "You Want It Darker",
+					"year" : 2016
+				}
+			]
+    	},
+		{ 
+			"name" : "Prince",
+			"age" : 57,
+			"birthName" : "Prince Rogers Nelson",
+			"yearsActive" : "1976–2016",
+			"albums" : [
+				{
+					"title" : "For You",
+					"year" : 1978
+				},
+				{
+					"title" : "Prince",
+					"year" : 1979
+				},
+				{
+					"title" : "Dirty Mind",
+					"year" : 1980
+				},
+				{
+					"title" : "Controversy",
+					"year" : 1981
+				},
+				{
+					"title" : "1999",
+					"year" : 1982
+				},
+				{
+					"title" : "Purple Rain",
+					"year" : 1984
+				},
+				{
+					"title" : "Around the World in a Day",
+					"year" : 1985
+				},
+				{
+					"title" : "Parade",
+					"year" : 1986
+				},
+				{
+					"title" : "Sign o' the Times",
+					"year" : 1987
+				},
+				{
+					"title" : "Lovesexy",
+					"year" : 1988
+				},
+				{
+					"title" : "Batman",
+					"year" : 1989
+				},
+				{
+					"title" : "Graffiti Bridge",
+					"year" : 1990
+				},
+				{
+					"title" : "Diamonds and Pearls",
+					"year" : 1991
+				},
+				{
+					"title" : "(Love Symbol Album)",
+					"year" : 1992
+				},
+				{
+					"title" : "Come",
+					"year" : 1994
+				},
+				{
+					"title" : "The Black Album",
+					"year" : 1994
+				},
+				{
+					"title" : "The Gold Experience",
+					"year" : 1995
+				},
+				{
+					"title" : "Chaos and Disorder",
+					"year" : 1996
+				},
+				{
+					"title" : "Emancipation",
+					"year" : 1996
+				},
+				{
+					"title" : "Crystal Ball",
+					"year" : 1998
+				},
+				{
+					"title" : "The Truth",
+					"year" : 1998
+				},
+				{
+					"title" : "The Vault: Old Friends 4 Sale",
+					"year" : 1999
+				},
+				{
+					"title" : "Rave Un2 the Joy Fantastic",
+					"year" : 1999
+				},
+				{
+					"title" : "The Rainbow Children",
+					"year" : 2001
+				},
+				{
+					"title" : "One Nite Alone...",
+					"year" : 2002
+				},
+				{
+					"title" : "Xpectation",
+					"year" : 2003
+				},
+				{
+					"title" : "N·E·W·S",
+					"year" : 2003
+				},
+				{
+					"title" : "Musicology",
+					"year" : 2004
+				},
+				{
+					"title" : "The Chocolate Invasion",
+					"year" : 2004
+				},
+				{
+					"title" : "The Slaughterhouse",
+					"year" : 2004
+				},
+				{
+					"title" : "3121",
+					"year" : 2006
+				},
+				{
+					"title" : "Planet Earth (2007)",
+					"year" : 1984
+				},
+				{
+					"title" : "Lotusflow3r",
+					"year" : 2007
+				},
+				{
+					"title" : "MPLSound",
+					"year" : 2009
+				},
+				{
+					"title" : "20Ten",
+					"year" : 2010
+				},
+				{
+					"title" : "Plectrumelectrum",
+					"year" : 2014
+				},
+				{
+					"title" : "Art Official Age",
+					"year" : 2014
+				},
+				{
+					"title" : "HITnRUN Phase One",
+					"year" : 2015
+				},
+				{
+					"title" : "HITnRUN Phase Two",
+					"year" : 2015
+				}
+			]
+    	}
+    ]
+}
